@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\An 2 Seminarii\SDD\Data Structures\Data Structures\Source.c(87,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\An 2 Seminarii\SDD\Data Structures\Data Structures\Source.c(103): warning C4715: 'citireProdus': not all control paths return a value
+  Data Structures.vcxproj -> D:\An 2 Seminarii\SDD\Data Structures\Debug\Data Structures.exe
